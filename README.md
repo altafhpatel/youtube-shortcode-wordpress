@@ -9,20 +9,20 @@
 
 ### preview of video
 
-![folder structure for youtube](/screenshots/video_card.png)
+![preview of video card](/screenshots/video_card.png)
 
 
 ## How to Use in Code
 1. Create a folder in your parent/child theme ( **youtube** ).
 2. Copy and paste two files inside it ( **init.php + youtube_modal.js**   ) below is folder structure
-![folder structure for youtube](/screenshots/folder_structure.png)
-3. open your ( **functions.php** ) file and paste the below line
+3. ![folder structure for youtube](/screenshots/folder_structure.png)
+4. open your ( **functions.php** ) file and paste the below line
 
 ```
 **include('youtube/init.php');**
 ```
 
-4. Paste the style anywhere you feel comfortable
+5. Paste the style anywhere you feel comfortable
 ```
 .video_card{text-align:center;}
 .video_card .thumb{position:relative;padding: 30px 0;background-color: #000;height:275px;overflow:hidden}
@@ -51,7 +51,7 @@ author.... video creator name
 
 Note: use every parameter like (video="uqasdfsdfw" etc)
 
-![folder structure for youtube](/screenshots/builder_structure.png)
+![use in gutenberg shortcode block](/screenshots/builder_structure.png)
 
 -------------------------------------------------------------------
 ### Developer Information
