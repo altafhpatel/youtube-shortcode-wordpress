@@ -32,7 +32,8 @@
 
 ## How to use in frontend or posts
 
-> [youtube_video video="UQqq6Kb4rDI" alt="wang wang karachi" title="Chinese Hotpot in Karachi" author="Muneeb Butt and Aimun"]
+``` [youtube_video video="UQqq6Kb4rDI" alt="image alt tag" title="video title like best video" author="by creator"]
+```
 
 1. Add a shortcode block in gutenberg or elementor anywhere in any builder
 2. Use the shortcode **youtube_video** see the parameters below
