@@ -7,10 +7,15 @@
 4. Automatically fetch image from youtube.
 5. Create a url automatically via video ID.
 
+### preview of video
+
+![folder structure for youtube](/screenshots/video_card.png)
+
 
 ## How to Use in Code
 1. Create a folder in your parent/child theme ( **youtube** ).
-2. Copy and paste two files inside it ( **init.php + youtube_modal.js**   )
+2. Copy and paste two files inside it ( **init.php + youtube_modal.js**   ) below is folder structure
+![folder structure for youtube](/screenshots/folder_structure.png)
 3. open your ( **functions.php** ) file and paste the below line
 
 ```
@@ -46,6 +51,7 @@ author.... video creator name
 
 Note: use every parameter like (video="uqasdfsdfw" etc)
 
+![folder structure for youtube](/screenshots/builder_structure.png)
 
 -------------------------------------------------------------------
 ### Developer Information
