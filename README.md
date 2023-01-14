@@ -31,7 +31,7 @@ author.... video creator name
 
 Note: use every parameter like (video="uqasdfsdfw" etc)
 
-====================================================================================================================
+
 ====================================================================================================================
 ### Developer Information
 1. My name is Altaf Hussain Patel based in Pakistan. Love to customize wordpress according to their requirement.
