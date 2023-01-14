@@ -13,10 +13,24 @@
 2. Copy and paste two files inside it ( **init.php + youtube_modal.js**   )
 3. open your ( **functions.php** ) file and paste the below line
 
-> **include('youtube/init.php');**
+```
+**include('youtube/init.php');**
+```
+
+4. Paste the style anywhere you feel comfortable
+```
+.video_card{text-align:center;}
+.video_card .thumb{position:relative;padding: 30px 0;background-color: #000;height:275px;overflow:hidden}
+.video_card.small_thumb .thumb{padding:0;}
+.video_card .play_button{position:absolute;top:50%;transform:translateY(-50%)}
+.video_card .play_button span{background-color: #f00;font-size: 11px;color: #fff;padding: 10px 20px;border-radius: 10px}
+.video_card .play_button i{display: block;font-size: 25px;margin-bottom:5px}
+.video_card h3{font-size: 18px;font-weight: 600;line-height: 1.3;padding: 10px 30px 0;letter-spacing: 0.5px;margin-bottom:0;}
+.video_card .author{font-size:12px;color:#ccc;}
+```
 
 
-### How to use in frontend or posts
+## How to use in frontend or posts
 
 > [youtube_video video="UQqq6Kb4rDI" alt="wang wang karachi" title="Chinese Hotpot in Karachi" author="Muneeb Butt and Aimun"]
 
