@@ -7,9 +7,9 @@
 
 
 ### How to Use
-1. Create a folder in your parent/child theme ( __ youtube __ ).
-2. Copy and paste two files inside it ( ** init.php + youtube_modal.js ** )
-3. open your ( ** functions.php ** ) file and paste the below line
+1. Create a folder in your parent/child theme ( **youtube** ).
+2. Copy and paste two files inside it ( **init.php + youtube_modal.js**   )
+3. open your ( **functions.php** ) file and paste the below line
 
 > include('youtube/init.php');
 
